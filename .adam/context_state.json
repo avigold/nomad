@@ -1,0 +1,26 @@
+{
+  "architecture.md": {
+    "content_hash": "0d5ce36c0ec6f55c",
+    "context_type": "architecture",
+    "last_seen": "2026-03-29T16:54:49.202331+00:00",
+    "content_preview": "# Architecture\n\n## Directory Structure\n\n```\nnomad/\n  index.html\n  vite.config.ts\n  tsconfig.json\n  tailwind.config.js\n  postcss.config.js\n  package.json\n  src/\n    main.tsx                    # ReactD"
+  },
+  "spec.md": {
+    "content_hash": "08a48f6e2285dd48",
+    "context_type": "spec",
+    "last_seen": "2026-03-29T16:54:49.202331+00:00",
+    "content_preview": "# Nomad \u2014 Residency Day Tracker\n\n## Purpose\n\nA local-first single-page application for digital nomads and frequent travellers who need to track how many days they have spent in each country within a r"
+  },
+  "style.md": {
+    "content_hash": "3b8054d2f00b7c59",
+    "context_type": "style",
+    "last_seen": "2026-03-29T16:54:49.202331+00:00",
+    "content_preview": "# Coding Style\n\n## TypeScript\n\n- Strict mode (`\"strict\": true` in tsconfig).\n- Prefer `interface` for object shapes, `type` for unions and intersections.\n- No `any` \u2014 use `unknown` if the type is trul"
+  },
+  "tech-stack.md": {
+    "content_hash": "ed6ce97ea896f821",
+    "context_type": "tech_stack",
+    "last_seen": "2026-03-29T16:54:49.202331+00:00",
+    "content_preview": "# Tech Stack\n\n## Runtime & Build\n\n- **Vite** \u2014 dev server and production bundler (latest stable)\n- **TypeScript** \u2014 strict mode enabled\n- **React 18** \u2014 functional components only, no class components"
+  }
+}
